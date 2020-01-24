@@ -1,0 +1,1 @@
+This is the website for UMD Big Data Club. See "projects" for tasks that still need to be completed.
